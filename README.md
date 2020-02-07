@@ -1,2 +1,2 @@
-# changing background gradient using JavaScript
-# colors might be selected randomly or by the user
+# Changing background gradient using JavaScript
+# colors might be selected by the user or randomly
